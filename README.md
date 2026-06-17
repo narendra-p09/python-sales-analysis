@@ -60,10 +60,18 @@ Trend Analysis
 
 📷 Visualizations
 
-- Sales by Category
-- Profit by Category
-- Top 10 Products by Sales
-- Year-wise Sales Trend
+## 01. Profit by Category
+![Profit by Category](02_sales_by_category.png)
+
+## 02. Sales by Category
+![Sales by Category](02_sales_by_category.png)
+
+## 03. Top 10 Products by Sales
+![Top 10 Products by Sales](03_top_10_products.png)
+
+## 04. Year-wise Sales Trend
+![Year-wise Sales Trend](04_yearly_sales_trend.png)
+
 
 📁 Project Structure
 
