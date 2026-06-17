@@ -88,6 +88,21 @@ python-sales-analysis/
 
 👨‍💻 Author
 
-Narendra Vikas Patil
+Narendra Patil
 
-GitHub: https://github.com/narendra-p09
+BCA Student | Aspiring Data Analyst
+
+Skills:
+- Power BI
+- SQL
+- Excel
+- Python
+- Data Visualization
+- Business Analytics
+
+ Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/narendra-patil-637aa8343
+- GitHub: https://github.com/narendra-p09
+
+---
